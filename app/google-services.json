@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600336716522",
+    "project_id": "extreme-mathematics-grade-12",
+    "storage_bucket": "extreme-mathematics-grade-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600336716522:android:da6bccf1ea59e4f673bd93",
+        "android_client_info": {
+          "package_name": "com.beckytech.extrememathematicsgrade12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600336716522-3p5poupkbk9kq5bgfu1rat7dr42c1iku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjhhwi1aQgB2FZ4Nzd4pb4XQYbkAKI5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600336716522-3p5poupkbk9kq5bgfu1rat7dr42c1iku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

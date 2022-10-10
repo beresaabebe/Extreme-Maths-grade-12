@@ -21,12 +21,8 @@
         <item name="android:windowTranslucentNavigation">false</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
-        <item name="android:background">@drawable/s00_00</item>
+        <item name="android:background">@drawable/extremee</item>
         <item name="android:windowFullscreen">true</item>
-        <item name="android:windowTranslucentStatus">false</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
     </style>
 
     <style name="MyAlertDialog" parent="Theme.AppCompat.DayNight.Dialog.Alert">
